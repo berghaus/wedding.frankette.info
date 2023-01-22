@@ -61,6 +61,15 @@
 <!-- Custom link-tags for different icons
      Generated via https://favicon.io/favicon-generator/ -->
 
+
+
+
+<ul>
+{{ range $.Site.Home.AllTranslations }}
+<li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+{{ end }}
+</ul>
+
 <link
   rel="apple-touch-icon"
   sizes="180x180"
