@@ -27,9 +27,7 @@ We hope you want to contribute something to the afternoon program!
 Contact
 Christina.Trifellner AT gmx.de
 
-## Kinder / *Kids*
+## Kids
 
-Für eure und unsere Kinder wollen wir bei der Feier einen kleinen Spielebereich realisieren. Gebt bitte bei der Anmeldung an wie alt eure Kinder sind
-und bringt gerne auch eigene (Lieblings-)spiele mit.
 
-*For your and our kids we aim to have a dedicated play area. Please, when registering, let us know the age of your kids and don't hesitate to bring along toys.*
+For your and our kids we aim to have a dedicated play area. Please, when registering, let us know the age of your kids and don't hesitate to bring along toys. There is also an outside area with a sand box and a number of playgrounds nearby
