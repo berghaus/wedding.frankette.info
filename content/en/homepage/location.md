@@ -8,7 +8,7 @@ header_menu: true
 
 #####Where and when
 
-The party is on August 5th at the Neuwirt in Garching bei München (the wedding itself was on December 9th 2022). The reception starts in the early afternoon (exact time will follow) after and your aging hosts will have to go to bed by midnight.
+The party is on August 5th at the Neuwirt in Garching bei München (the wedding itself was on December 9th 2022). The reception starts at 13:00 with cold cuts (you can come with an empty stomach!). Afternoon will bring a wedding cake. Dinner is served at around 18:00, and some sports program (dancing!) will follow. Your aging hosts will have to go to bed by midnight.
 
 
 ##### Accomodation
@@ -19,6 +19,7 @@ There is a number of rooms directly at Neuwirt, please check with them. Other ne
 * budget: [Maria’s Inn](https://www.marias-inn.com/de)
 * small appartments: [Soulmade](https://soulmade.me/)
 * mid-class: [Hoyacker Hof](https://www.hoyackerhof.de/en/home/)
+* a number of further options are available in (for example [Dorint](https://hotel-muenchen-garching.dorint.com/en/)) or Garching Forschungszentrum (for example [Courtyard](https://www.marriott.de/hotels/travel/muccg-courtyard-munich-garching/)) (few km, via U-Bahn, one station or by foot)
 
 
 ## Contribution to afternoon
