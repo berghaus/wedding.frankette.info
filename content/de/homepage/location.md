@@ -8,7 +8,12 @@ header_menu: true
 
 ##### Wann und wo
 
-Die Hochzeitsfeier findet statt am 5.8.23 zum Neuwirt in Garching bei München ein (die eigenliche Hochzeit war am 9.12.22). Der Empfang startet um 13:00 mit Häppchen und Sekt (gerne hungrig kommen, für das leibliche Wohl ist den ganzen Tag gesorgt :-) ). Nachmittags gibts Hochzeitstorte und gegen 18:00 laden wir zum Abendessen ein. Hoffentlich schwingt ihr danach ein Tanzbein! Aber da wir schon ziemlich in die Jahre gekommen sind, ist gegen Mitternacht Schluss :-)
+Die Hochzeitsfeier findet statt am 5.8.23 zum Neuwirt in Garching bei München ein (die eigenliche Hochzeit war am 9.12.22).
+
+Der Empfang startet um 13:00 mit Häppchen und Sekt (gerne hungrig kommen, für das leibliche Wohl ist den ganzen Tag gesorgt :-) ).
+Der Nachmittag lebt von euren Programmpunkten! Ausserdem  gibts Hochzeitstorte (und selbstgemachte Kuchen), sowie eine Brotzeitplatte. Es gibt die Möglichkeit, spazieren zu gehen, oder gemuetlich den Garten zu geniessen.
+
+Gegen 18:00 laden wir zum Abendessen ein. Hoffentlich schwingt ihr danach ein Tanzbein! Aber da wir schon ziemlich in die Jahre gekommen sind, ist gegen Mitternacht Schluss :-)
 
 
 
