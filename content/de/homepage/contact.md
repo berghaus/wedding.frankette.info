@@ -8,6 +8,8 @@ Wer vor oder nach der Feier noch etwas in München und Umgebung unternehmen will
 
 Ein Familienausflug beispielweise könnte ins [Deutsche Museum](https://www.deutsches-museum.de/), oder ins [Museum Mensch und Natur](https://mmn-muenchen.snsb.de/) beim Schloss Nymphenburg gehen, bei gutem Wetter auch einfach an die Isar oder den [Garchinger Badesee](https://www.muenchen.de/freizeit/seen/garchinger-see) in der Nähe.
 
+Auf dem Garchinger Forschungscampus (wo Frank und Babette auch arbeiten) gibt es auch das [ESO Supernova Planetarium](https://supernova.eso.org/germany/) inklusive einer sher spannenden Ausstellung. In zirka 30 min Fussweg vom Garchinger Zentrum erreichbar (oder per Bus/Ubahn)
+
 {{<icon class="fa fa-envelope">}}&nbsp;[wedding@frankette.info](mailto:wedding@frankette.info)
 
 {{<icon class="fa fa-phone">}}&nbsp;[+49 fakenumber](tel:+49fakenumber)
