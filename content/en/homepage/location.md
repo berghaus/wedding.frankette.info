@@ -23,7 +23,7 @@ There is a number of rooms directly at Neuwirt, please check with them. Other ne
 * budget: [Maria’s Inn](https://www.marias-inn.com/de)
 * small appartments: [Soulmade](https://soulmade.me/)
 * mid-class: [Hoyacker Hof](https://www.hoyackerhof.de/en/home/)
-* a number of further options are available in (for example [Dorint](https://hotel-muenchen-garching.dorint.com/en/)) or Garching Forschungszentrum (for example [Courtyard](https://www.marriott.de/hotels/travel/muccg-courtyard-munich-garching/)) (few km, via U-Bahn, one station or by foot)
+* a number of further options are available in Hochbrueck (for example [Dorint](https://hotel-muenchen-garching.dorint.com/en/)) or Garching Forschungszentrum (for example [Courtyard](https://www.marriott.de/hotels/travel/muccg-courtyard-munich-garching/)) (both only few km, via U-Bahn, one station or by foot)
 
 
 ## Contribution to afternoon

@@ -20,7 +20,7 @@ Gegen 18:00 laden wir zum Abendessen ein. Hoffentlich schwingt ihr danach ein Ta
 
 ##### Übernachtungsmöglichkeiten
 
-Es gibt einige Zimmer direkt beim Neuwirt (bitte direkt erfragen), andere Hotels in der Nähe sind: There is a number of rooms directly at Neuwirt, please check with them. Other nearby options are for example:
+Es gibt einige Zimmer direkt beim Neuwirt (bitte direkt erfragen), andere Hotels in der Nähe sind:
 
 * mid-class: [Hotel Koenig Ludwig](https://hkl.de/)
 * budget: [Maria’s Inn](https://www.marias-inn.com/de)

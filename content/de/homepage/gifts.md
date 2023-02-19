@@ -1,5 +1,5 @@
 ---
-title: "Übernachtungsmöglichkeiten / *Accomodation*"
+title: "Geschenke und sonstiges"
 weight: 6
 header_menu: true
 ---

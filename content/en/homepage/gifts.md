@@ -1,5 +1,5 @@
 ---
-title: "Accomodation"
+title: "Miscellanea"
 weight: 6
 header_menu: true
 ---
